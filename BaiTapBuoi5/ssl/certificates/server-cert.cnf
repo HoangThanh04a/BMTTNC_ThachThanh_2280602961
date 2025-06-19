@@ -1,0 +1,13 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C=VN
+ST=
+L=HoChiminh
+O=HUTECH
+OU=K.CNTT
+CN=it.hutech.edu.vn
